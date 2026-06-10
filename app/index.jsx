@@ -48,11 +48,11 @@ const styles = StyleSheet.create({
   },
 
   logo: {
-    fontSize: 50,
+    fontSize: 65,
     fontWeight: "bold",
     color: "#1877f2",
     textAlign: "center",
-    marginBottom: 40,
+    marginBottom: 60,
   },
 
   input: {
